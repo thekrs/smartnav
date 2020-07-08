@@ -5,9 +5,9 @@ Smartnav has been created as a shared student project supported by HfTL (Hochsch
 
 This project has been committed under the MIT license.
 
-The team:
-Andreas Hartmann - teacher, UX engineer
-Ralf Backes - business partner, CMS and web expert
-Kathrin Krumbach - first prototype, UX study
-Tomm Gehder - second prototype, technology stack
-Denis Kreiner - third prototype, mental model
+<ul>The team:</ul>
+<li>Andreas Hartmann - teacher, UX engineer</li>
+<li>Ralf Backes - business partner, CMS and web expert</li>
+<li>Kathrin Krumbach - first prototype, UX study</li>
+<li>Tomm Gehder - second prototype, technology stack</li>
+<li>Denis Kreiner - third prototype, mental model</li>
