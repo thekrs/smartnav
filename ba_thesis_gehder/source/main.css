@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+.headerimg {
+    display: flex;
+    flex-direction: row;
+    background: rgb(226, 0, 116);
+    padding: 3px;
+    color: white !important;
+}
+.headerimg>a {
+    margin: auto 0;
+}
+.headerimg>p {
+    margin: auto;
+    margin-right: 5px;
+    color: white;
+}
+.headerimg>p a:link{
+    color: white;
+}
+#content-container{
+    height: 100%;
+    width: 100%;
+    background: white;
+    text-align: center;
+    color: rgb(226, 0, 116);;
+    font-size: 1.5rem;
+    /* padding: 10px; */
+    line-height: 3rem;
+}
+#help{
+    display: block;
+
+}
+iframe{
+    width: 100%;
+    height: calc(100% - 50px);
+}

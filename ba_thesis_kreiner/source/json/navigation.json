@@ -1,0 +1,106 @@
+{
+  "Global": {
+    "Intro": false,
+    "color": [
+      "rgba(226, 64, 116, 1)",
+      "rgba(56, 56, 56, 1)",
+      "rgba(208, 208, 208, 1)"
+    ],
+    "orientation": "right"
+  },
+  "Links": [
+    {
+      "title": "Mobilfunk",
+      "path": "https://geschaeftskunden.telekom.de/startseite/mobilfunk/340038/mobilfunk-aktionen-neuheiten.html",
+      "icon": "test",
+      "nav": [
+        {
+          "title": "Aktionen & Neuheiten",
+          "path": ""
+        },
+        {
+          "title": "Tarife",
+          "path": "https://geschaeftskunden.telekom.de/startseite/mobilfunk/290190/die-mobilfunktarife-der-telekom-fuer-geschaeftskunden.html",
+          "nav": [
+            {
+              "title": "Telefonieren & Surfen",
+              "path": ""
+            },
+            {
+              "title": "Datentarife",
+              "path": "https://geschaeftskunden.telekom.de/startseite/mobilfunk/tarife/293134/lte-internet-flat-datentarife-fuer-geschaeftskunden-der-telekom.html#293050"
+            },
+            {
+              "title": "Zusatzkarten",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "title": "Smartphones & Handys",
+          "path": ""
+        },
+        {
+          "title": "Tablets & Surfsticks",
+          "path": ""
+        },
+        {
+          "title": "Zubuchoptionen",
+          "path": ""
+        }
+      ]
+    },
+    {
+      "title": "Festnetz & Internet",
+      "path": "https://geschaeftskunden.telekom.de/startseite/festnetz-internet/tarife/288914/internet-telefonie.html"
+    },
+    {
+      "title": "Cloud & IT",
+      "path": "https://geschaeftskunden.telekom.de/startseite/cloud-it/300436/telekomcloud.html"
+    },
+    {
+      "title": "Hilfe & Service",
+      "path": "https://geschaeftskunden.telekom.de/startseite/service/311066/online-services.html"
+    },
+    {
+      "title": "Lösungen",
+      "path": "https://geschaeftskunden.telekom.de/",
+      "nav": [
+        {
+          "title": "Für Selbständige",
+          "path": "https://geschaeftskunden.telekom.de/startseite/loesungen/297620/fuer-selbststaendige.html",
+          "nav": [
+            {
+              "title": "Absatz & Service",
+              "path": ""
+            },
+            {
+              "title": "Produktivität",
+              "path": ""
+            },
+            {
+              "title": "Zusammenarbeit",
+              "path": ""
+            },
+            {
+              "title": "Sicherheit",
+              "path": "https://geschaeftskunden.telekom.de/startseite/loesungen/fuer-selbststaendige/297732/sicherheit-gewaehrleisten.html"
+            }
+          ]
+        },
+        {
+          "title": "Für kleine und mittelständige U.",
+          "path": "https://geschaeftskunden.telekom.de/startseite/loesungen/298256/fuer-kleine-und-mittlere-unternehmen.html"
+        },
+        {
+          "title": "Für Grossunternehmen",
+          "path": "https://geschaeftskunden.telekom.de/startseite/loesungen/298278/fuer-grossunternehmen.html"
+        }
+      ]
+    },
+    {
+      "title": "Referenzen",
+      "path": "https://geschaeftskunden.telekom.de/startseite/referenzen/330116/unternehmensgroesse.html"
+    }
+  ]
+}

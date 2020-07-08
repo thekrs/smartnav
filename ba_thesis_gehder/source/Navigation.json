@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Titel 1",
+        "path":"pfad/zur/1/webseite",
+        "nav": []
+    },
+    {
+        "title": "Titel 2",
+        "path":"pfad/zur/2/webseite",
+        "nav": [
+            {
+                "title": "Titel zweite Ebene",
+                "path":"pfad/zur/2/webseite/ebene/1",
+                "nav": []
+            }
+        ]
+    }
+]
+
+
+
